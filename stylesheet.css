@@ -3,7 +3,7 @@ header {
     text-align: left;
     font-size:x-large;
     font-family: monospace;
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(112, 96, 76);
     margin: auto;
     width: 100%;
     box-sizing: border-box;
@@ -62,7 +62,7 @@ hr{
 
 
 body{
-    background-color: rgb(112, 96, 76);
+    background-color:rgb(48, 48, 48);
 }
 
 ul{
@@ -79,4 +79,13 @@ ul{
 
 h3{
     font-size: 30px;
+}
+
+footer{
+    background-color: rgb(112, 96, 76);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 50px;
 }
